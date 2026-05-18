@@ -1,0 +1,44 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Build files
+build/
+dist/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# SQLite database
+*.db
+
+# FastAPI cache
+.cache/
+
+# Node modules (future React frontend)
+node_modules/
